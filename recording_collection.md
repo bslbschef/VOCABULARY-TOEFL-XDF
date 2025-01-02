@@ -47,3 +47,44 @@
 38. rider, n. 骑手
 39. insurance, n. 保险，保险费
 40. be endowed with (endow), 被赋予 （v. 向...捐赠，资助，赋予）
+## Num 2 (2025/01/02)
+1. independently and identically distributed (i.i.d.), 独立且相同分布的
+2. covariate, n. 协变量，相关变量
+3. dimensality, n. 维度，维度数
+4. squared error, n. 平方误差
+5. descent, n. 下降，降落，斜坡，堕落
+6. gradient, n. 梯度，梯度向量，梯度下降法
+7. gredient descent, n. 梯度下降法
+8. Tomography, n.X线层析摄影术
+9. computed tomography, n. 计算摄影术
+10. category, n. 类别，种类范畴
+11. binomial, n. 二项式，二项分布；adj. 二项的，二项分布的
+12. binomial classification, n. 二项分类
+13. cross-entropy, n. 交叉熵，交叉熵损失函数
+14. logistic regression, n. 逻辑回归
+15. hierarchical, adj. 层级的，分层的，等级制的
+16. hierarchical classification, n. 层级分类
+17. mesh, n. 网格，网状物
+18. entity, n. 实体
+19. clustering, n. 聚类，聚类分析
+20. cluster, v. 群聚,聚集； n. 组，簇，集群，星团
+21. principal component analysis, n. 主成分分析
+22. principle, n. 原则，原理
+23. causality, n. 因果，原因
+24. probabilistic graphical model, n. 概率图模型
+25. probabilistic, adj. 概率的
+26. generative adversarial network, n. 生成对抗网络
+27. generative, adj. 生成器的
+28. adversarial, adj. 对抗的，对手的
+29. distribution shift, n. 分布偏移
+30. markov decision process, n. 马尔可夫决策过程
+31. contextual, adj. 上下文相关的
+32. bandit, n. 臂，臂机，强盗土匪恶棍
+33. contextual bandit problem, n. 上下文相关赌博机问题
+34. multi-armed bandit problem, n. 多臂赌博机问题
+35. estimation, n. 估计，估计值
+36. backpropagation, n. 反向传播法
+37. propagation, n. 传播，传播过程
+38. propagate, v. 传播,散播宣传
+39. kernel, n. 核，核函数，核方法
+40. 
